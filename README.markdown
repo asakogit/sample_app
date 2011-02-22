@@ -1,5 +1,7 @@
 == Welcome to Rails
 
+some application i'm just practicing using git here
+
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
 
